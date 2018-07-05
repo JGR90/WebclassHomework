@@ -1,0 +1,16 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "al",
+            "request": "launch",
+            "name": "Your own server",
+            "server": "https://schulungvscode.westeurope.cloudapp.azure.com",
+            "serverInstance": "NAV",
+            "authentication": "UserPassword",
+            "schemaUpdateMode": "Synchronize",
+            "startupObjectId": 30,
+            "startupObjectType": "Page"
+        }
+    ]
+}

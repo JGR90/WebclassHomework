@@ -1,0 +1,23 @@
+{
+  "id": "0f541c34-e568-42f3-a220-92076a67ea2a",
+  "name": "AI Language Service",
+  "publisher": "JGR",
+  "brief": "AI Language Service App",
+  "description": "This application can..",
+  "version": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "appinfo/Languages-Icon.png",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "12.0.0.0",
+  "application": "12.0.0.0",
+  "idRange": {
+    "from": 50100,
+    "to": 50149
+  },
+  "showMyCode": true
+}
